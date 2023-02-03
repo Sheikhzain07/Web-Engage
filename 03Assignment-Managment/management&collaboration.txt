@@ -1,0 +1,20 @@
+Ques.1 What will be your approach to solving this issue? Explain your strategy and approach to
+this.
+Ans. Basically, I'm currently stuck in an awful situation, where I have to choose amongst  two important tasks. Being a software developer it's actually a difficult decision to make, bcz I believe there is no such thing called a high or low priority customer, it's just the demand and deadline which scales them ,whenever we have to submit 2 results or pick one over the other , at such a short notice, it's a dilemma  . Here, I'm giving importance to the task number two, since it is from a priority customer whose campaign needs to go live in the next two days. As I am running short of time, I'll try and finish the given task number two by the end of this day i.e today itself. So that I can save some utmost crucial hours to work on the other task (task 1) . I believe customers are never on a high priority or a low priority thing, they trust us, they show faith in our work and so I will try my best to not let them down. I'll finish the task number 2 today itself by cutting short my personal hours as much as possible and do the core and time taking parts of the task number 1 too by the end of tomorrow (after finishing the task 2 ).
+
+
+Ques.2 How will you inform the 2 separate account managers of both customers about your
+approach? Write an internal message informing Manoj (Account manager for Task 1) &
+Ravi (Account Manager for Task 2) about your respective approach.
+Ans. I'll reach the account managers by writing to them either on their emails or on the contacts they have provided. I will inform Mr Manoj first, since his task is the one that I will not be able to submit early, until next 3 days minimum. I'll show him the major core work as a proof and also as a token of assurance which I'll have already completed by the end of tomorrow and will also mention the fact that he had not stated earlier any emergency or deadline for his task, plus the family emergency situation in which I will be stuck in ,  for the coming 3 days. I'll assure him that he will get his task fully furnished by 4th day's early morning since I'll just need little time to give the final touch on that day(4th), all other work will be done by tomorrow itself.
+ Secondly I will inform Ravi (task 2 manager ) , I will brief him with all the details needed, with few proofs as an assurance that he will receive his fully furnished task before the deadline. As I am giving him the completed task before the deadline I will not need to inform him about the family emergency situation .
+
+
+ Ques.3 How will you communicate the delay of additional 3 days to the customer? (Write an
+email to the customer informing them about this).
+Ans. To Mr Manoj
+Subject:- Asking for a relaxation of three extra day s to finish the task due to unavoidable circumstances.
+Hello Manoj,
+I'm writing to fill you in with the progress of your task , I've already started to work on it , almost halfway through it , but due to some unavoidable family emergency situation , I'll be getting late by 3 days. All the core stuff is done , only the basics of final touch like compilation, merging ,etc are left and I assure you that the entire file will be on your PC by the morning of 4th day without any delay. I have also attached few screenshots and links , you can check the progress of your task on those pages  .
+In between this time , if you have any amendments, any requests or queries, you can always write to me, I'll be grateful to answer your queries plus I'll keep u posted with the further progresses regarding the task  . Once again I'm really sorry for the delay and hopeful too that you won't mind it and understand the situation I'm stuck in and will continue to show faith in me and my work as before .
+Thanks.
